@@ -240,21 +240,7 @@ window.onerror = function() {
     }
 </style>
 
-<div id="grid-background-container">
-    <div id="horizontal-grid">
-        <div id="vertical-grid">
-            <div id="loading-container">
-                <h1>Mockingbird</h1>
-                <div class='loading-messages'>
-                    <span>Hello. Just a moment, please...</span>
-                    <span>Getting ready...</span>
-                    <span>Almost there...</span>
-                    <span>Loading up your wireframes...</span>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
             <!-- JAVASCRIPT MISSING -->
             
 <noscript>
